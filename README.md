@@ -1,2 +1,3 @@
 # python-challenge-1
-Python Challenge 1
+
+Basic menu ordering system written in Python
